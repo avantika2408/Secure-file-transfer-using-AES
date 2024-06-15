@@ -12,7 +12,8 @@ This project implements a secure file transfer server using AES encryption in GC
 ## How to use
 1. Run sever.py first
 2. On a different terminal or machine run client.py
-3. Communicate!
+3. To send a file you have to use '#Send_File'
+4. Communicate!
 
 ## Requirements
 
