@@ -9,6 +9,11 @@ This project implements a secure file transfer server using AES encryption in GC
 - Multi-client support with concurrent connections
 - Basic text messaging between clients and server
 
+## How to use
+1. Run sever.py first
+2. On a different terminal or machine run client.py
+3. Communicate!
+
 ## Requirements
 
 - Python 3.x
