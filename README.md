@@ -15,4 +15,10 @@ This project implements a secure file transfer server using AES encryption in GC
 - cryptography library (`pip install cryptography`)
 - tqdm library (`pip install tqdm`)
 
+## How can it be improved
+
+- Ensuring two way communication between sever and clients
+- Using the information sent to sever in other server making it a large network
+  
+
 
