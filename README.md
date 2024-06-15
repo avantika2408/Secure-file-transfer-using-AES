@@ -17,7 +17,7 @@ This project implements a secure file transfer server using AES encryption in GC
 ## Requirements
 
 - Python 3.x
-- cryptography library (`pip install cryptography`)
+- cryptography library (`pip install cryptography` and `pip install pycryptodome`)
 - tqdm library (`pip install tqdm`)
 
 ## How can it be improved
